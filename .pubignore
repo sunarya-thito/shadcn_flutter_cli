@@ -1,0 +1,12 @@
+/bin/
+/.github/
+/build/
+/test/
+pubspec.lock
+/.idea/
+/.dart_tool/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+doc/api/
